@@ -27,4 +27,6 @@ public class MyClass {
     //Biraz daha değişiklik yapalım
     public String string9="superiz";
 
+    //Biraz daha  bilgi
+    public String string10="2000 yıl sonra";
 }
