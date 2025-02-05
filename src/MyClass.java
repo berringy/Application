@@ -28,5 +28,5 @@ public class MyClass {
     public String string9="superiz";
 
     //Burada conflict olacak
-    public String string10="3000 yıl sonra";
+    public String string10="2000 yıl sonra";
 }
