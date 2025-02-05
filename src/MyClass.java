@@ -29,4 +29,7 @@ public class MyClass {
 
     //Burada conflict olacak
     public String string10="2000 yıl sonra";
+
+
+    //conf22
 }
