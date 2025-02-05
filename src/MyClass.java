@@ -8,4 +8,7 @@ public class MyClass {
 
     //V3
     public String string3="Bu da cok daha başka bir string.";
+
+    //techpro branch: T1
+    public String string4="Bu techpro branchinde oluşturuldu";
 }
