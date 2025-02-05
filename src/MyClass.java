@@ -18,4 +18,7 @@ public class MyClass {
     //V4
     public String string6="Biraz daha farklı bir string";
 
+    //Techpro Branch:T3
+    public String string7="Bu biraz değişik bir string.";
+
 }
