@@ -11,4 +11,7 @@ public class MyClass {
 
     //techpro branch: T1
     public String string4="Bu techpro branchinde oluşturuldu";
+
+    //techpro branch: T2
+    public String string5="Bu da techpro branchinde oluşturuldu";
 }
