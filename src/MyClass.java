@@ -32,4 +32,5 @@ public class MyClass {
 
 
     //conf22
-}
+
+    public String string11="Bu bir string mi acaba?";
